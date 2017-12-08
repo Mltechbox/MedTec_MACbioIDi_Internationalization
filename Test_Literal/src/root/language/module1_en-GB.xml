@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <description><![CDATA[British english module description]]></description>
+    <literals>
+        <l_00001><![CDATA[word 1]]></l_00001>
+        <l_00002><![CDATA[word 2]]></l_00002>
+        <l_00003><![CDATA[word 3]]></l_00003>
+    </literals>
+</module>

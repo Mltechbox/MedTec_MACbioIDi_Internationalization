@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<languages>
+    <default>en-GB</default>
+    <last>fr</last>
+    <language>
+        <code>en-GB</code>
+        <description><![CDATA[British english]]></description>
+    </language>
+    <language>
+        <code>es-ES</code>
+        <description><![CDATA[Español de España]]></description>
+    </language>
+    <language>
+        <code>pt-PT</code>
+        <description><![CDATA[Português europeu]]></description>
+    </language>
+    <language>
+        <code>fr</code>
+        <description><![CDATA[Français]]></description>
+    </language>
+    <language>
+        <code>ar</code>
+        <description><![CDATA[موريتانيا العربي]]></description>
+    </language>
+</languages>

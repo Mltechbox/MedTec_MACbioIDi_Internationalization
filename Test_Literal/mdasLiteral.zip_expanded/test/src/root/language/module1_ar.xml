@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <description><![CDATA[العربية]]></description>
+    <literals>
+        <l_00001><![CDATA[كلمة 1]]></l_00001>
+        <l_00002><![CDATA[كلمة 2]]></l_00002>
+        <l_00003><![CDATA[كلمة 3]]></l_00003>
+    </literals>
+</module>
